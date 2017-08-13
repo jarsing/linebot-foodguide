@@ -35,7 +35,7 @@ foreach ($client->parseEvents() as $event) {
                 $keywords = explode(',', $item['gsx$keyword']['$t']);
 
                 foreach ($keywords as $keyword) {
-                    if (strpos($message['text'], $keyword) !== false) {
+                    if (mb_strpos($message['text'], $keyword) !== false) {
                         $candidate = array(
                             'thumbnailImageUrl' => $item['gsx$photourl']['$t'],
                             'title' => $item['gsx$title']['$t'],
