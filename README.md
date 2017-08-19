@@ -18,8 +18,7 @@ linebot-foodguide
 知識庫範例
 --
 
-1. [美食指南 JSON 文件](https://spreadsheets.google.com/feeds/list/10er9ZgEDKvAkHTzweszUUj6E34wuAEwAE4qjQrdVm6Q/od6/public/values?alt=json
-)
+1. [美食指南 JSON 文件](https://spreadsheets.google.com/feeds/list/1tQCaj3LUVwH0tBuPrfBY2dOJuF-qzpYEdOqGdNvJRLc/od6/public/values?alt=json)
 
 開發需求
 --
